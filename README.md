@@ -8,7 +8,7 @@ Now I learning C++ language, in previous year I was learning C language. C langu
 ## Language that I know pretty good:
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
-## Language that I am active learning:
+## Language that I am actively learning:
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 ## Skills that I am learning anu using now:
