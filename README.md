@@ -1,9 +1,13 @@
-# Hello, world!
+# `Hello, world!`
 
 I am 2'nd year student of MIPT DREC. I am learning programming and other subjects in MIPT.
 
 Now I learning C++ language, in previous year I was learning C language. C languge I was learning on course of  Avatar
 [Ilya Dedinsky](https://github.com/ded32) that called Ilab, now I learning C++ on course of [K.I.Vladimirov](https://github.com/tilir).
+
+## My stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegendaryHog&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Language that I know pretty good:
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
@@ -16,10 +20,6 @@ Now I learning C++ language, in previous year I was learning C language. C langu
 
 ### My OS
 ![My OS](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
-
-## My stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegendaryHog&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## My C++ projects.
