@@ -12,7 +12,15 @@ Now I learning C++ language, in previous year I was learning C language. C langu
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 ## Skills that I am learning anu using now:
-[![My Skills](https://skillicons.dev/icons?i=cmake,python,bash,latex,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,cmake,python,bash,latex,markdown)](https://skillicons.dev)
+
+### My OS
+![My OS](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+
+## My stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegendaryHog&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## My C++ projects.
 
