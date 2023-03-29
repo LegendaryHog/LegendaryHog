@@ -15,7 +15,7 @@ Now I learning C++ language, in previous year I was learning C language. C langu
 ## Language that I am actively learning:
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
-## Skills that I am learning anu using now:
+## Skills that I am learning and using now:
 [![My Skills](https://skillicons.dev/icons?i=git,cmake,python,bash,latex,markdown)](https://skillicons.dev)
 
 ### My OS
