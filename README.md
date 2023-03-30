@@ -2,17 +2,17 @@
 
 I am 2'nd year student of MIPT DREC. I am learning programming and other subjects in MIPT.
 
-Now I learning C++ language, in previous year I was learning C language. C languge I was learning on course of  Avatar
+Now I learning C++ language, in previous year I was learning C language. I was learning C languge on course by
 [Ilya Dedinsky](https://github.com/ded32) that called Ilab, now I learning C++ on course of [K.I.Vladimirov](https://github.com/tilir).
 
 ## My stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegendaryHog&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Language that I know pretty good:
+## Languages that I know pretty good:
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
-## Language that I am actively learning:
+## Languages that I am actively learning:
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 ## Skills that I am learning and using now:
@@ -29,16 +29,16 @@ Now I learning C++ language, in previous year I was learning C language. C langu
 - [Belady Cache with complexity of request O(log(cache.size))](https://github.com/LegendaryHog/belady_cache)
 
 - [RAII class of Matrixes](https://github.com/LegendaryHog/matrix)
-    - for this problem I wrote: RAII Array (my copy of `std::array`), class MatrixContainer that gives to userinterface of 2d array, in which you can swap rows and collumns by O(1), class MatrixArithmetic that gives you basic arithmetic operations with matrix, determinant of matrix, transponse matrix, inverse matrix, product of matrixes. I wrote two algorithm of detrminant: Bareiss and Gauss.
+    - for this problem I wrote: RAII Array (my copy of `std::array`), class MatrixContainer provides interface of 2d array, in which you can swap rows and collumns by O(1), class MatrixArithmetic provides basic arithmetic operations with matrix, determinant of matrix, transponse matrix, inverse matrix, product of matrices. I wrote two algorithm of detrminant: Bareiss and Gauss.
 
 - [RAII clas of RBTrees](https://github.com/LegendaryHog/SearchTree) 
-    - my own copy of `std::set` and specialization for HWT problem.
+    - my own version of `std::set` and specialization for HWT problem.
 
 - [HW3D solution(Triangles)](https://github.com/LegendaryHog/Triangles)
-    - geometric problem of intersection Points, Segmnets and Triangles in 3D. This project I wrote with my frined [Dany aka BileyHarryCopter](https://github.com/BileyHarryCopter). In addition to find collisons of all inputed shapes we must boost process by saptial partitioning algorithm, to can intersect 1m shapes in the near future.
+    - geometric problem of intersection Points, Segmnets and Triangles in 3D. This project I wrote with my frined [Dany aka BileyHarryCopter](https://github.com/BileyHarryCopter). In addition to find collisons of all inputed shapes we must boost process by spatial partitioning algorithm, to can intersect 1m shapes pretty quickly.
 
 - [Vector](https://github.com/LegendaryHog/Vector)
-    - my own RAII copy `std::vector`.
+    - my own RAII version `std::vector`.
 ## My C projects.
 
 - [Quadratic Equation Solution](https://github.com/LegendaryHog/quadratic-equation)
@@ -48,9 +48,9 @@ Now I learning C++ language, in previous year I was learning C language. C langu
     take text in buffer, sort by end of lines, generate poem.
 
 - [Stack](https://github.com/LegendaryHog/Stack)
-    - try to wrote RAII Stack in C, I cannot say that i did perfect interface and errors handing, but that was a good try. 
+    - attempt to write RAII Stack in C, I cannot say that I did perfect interface and errors handing, but that was a good try. 
 - [Processor(Assembler)](https://github.com/LegendaryHog/Pentium)
-    - Assembler-like language with assembling and processing programms. We did code generation with macros for better debugging))).
+    - Assembly language with assembler and processing programms. I did code generation with macros for better debugging))).
 
 - [Array based list](https://github.com/LegendaryHog/List)
 
