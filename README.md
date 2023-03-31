@@ -24,11 +24,11 @@ Now I learning C++ language, in previous year I was learning C language. I was l
 
 ## My C++ projects.
 
-- [LFU Cache with compexity of request O(1)](https://github.com/LegendaryHog/cache)
+- [LFU Cache with complexity of request O(1)](https://github.com/LegendaryHog/cache)
 
 - [Belady Cache with complexity of request O(log(cache.size))](https://github.com/LegendaryHog/belady_cache)
 
-- [RAII class of Matrixes](https://github.com/LegendaryHog/matrix)
+- [RAII class of Matrices](https://github.com/LegendaryHog/matrix)
     - for this problem I wrote: RAII Array (my copy of `std::array`), class MatrixContainer provides interface of 2d array, in which you can swap rows and collumns by O(1), class MatrixArithmetic provides basic arithmetic operations with matrix, determinant of matrix, transponse matrix, inverse matrix, product of matrices. I wrote two algorithm of detrminant: Bareiss and Gauss.
 
 - [RAII clas of RBTrees](https://github.com/LegendaryHog/SearchTree) 
