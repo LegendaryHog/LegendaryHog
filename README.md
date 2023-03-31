@@ -5,6 +5,12 @@ I am 2'nd year student of MIPT DREC. I am learning programming and other subject
 Now I learning C++ language, in previous year I was learning C language. I was learning C languge on course by
 [Ilya Dedinsky](https://github.com/ded32) that called Ilab, now I learning C++ on course of [K.I.Vladimirov](https://github.com/tilir).
 
+## CV
+
+[My CV](https://github.com/LegendaryHog/CV)\
+[English version](https://github.com/LegendaryHog/CV/blob/master/CV_Eng.pdf)\
+[Russian version](https://github.com/LegendaryHog/CV/blob/master/CV_Rus.pdf)
+
 ## My stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegendaryHog&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
