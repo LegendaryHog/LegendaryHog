@@ -8,8 +8,8 @@ Now I learning C++ language, in previous year I was learning C language. I was l
 ## CV
 
 [My CV](https://github.com/LegendaryHog/CV)\
-[English version](https://github.com/LegendaryHog/CV/CV_Eng.pdf)\
-[Russian version](https://github.com/LegendaryHog/CV/CV_Rus.pdf)
+[English version](https://github.com/LegendaryHog/CV/blob/master/CV_Eng.pdf)\
+[Russian version](https://github.com/LegendaryHog/CV/blob/master/CV_Rus.pdf)
 
 ## My stats
 
